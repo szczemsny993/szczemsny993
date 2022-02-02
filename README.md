@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamil Szczęsny
 - 👀 I’m interested in Java & Desktop Technologies
-- 🌱 I’m currently learning JS & Web Technologies
+- 🌱 I’m currently learning Python <333
 - 📫 How to reach me: kszczesny993@gmail.com
 
 <!---
